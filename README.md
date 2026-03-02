@@ -1,7 +1,7 @@
 # Hi, I'm Rohan Singh 👋
 
 SQL • Python • Power BI • Excel  
-Building data-driven solutions and turning insights into business impact.
+Building analytical solutions that drive business decisions.
 
 ---
 
